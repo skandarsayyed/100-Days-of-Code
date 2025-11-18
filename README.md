@@ -4,6 +4,8 @@ Day 2: Project / Tip Calculator
 Day 3: Project / Treasure Island
 Day 4: Project / Rock Paper Scissors
 Day 5: Project / Password Generator
+Day 6: Project / Pending
+Day 7: Project / Hangman 
 
 ## READ ME
 I want to clarify that all my projects have been written down by me not AI.
